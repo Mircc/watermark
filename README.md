@@ -2,8 +2,6 @@
 
 纯前端的在线水印  --来自鹿遥
 
-以前自己瞎搞的一个添加水印的demo
-
 https://miluluyo.github.io/watermark/index.html
 
 ![Image text](https://raw.githubusercontent.com/Sunwendi/photo_gallery/master/watermark1.png)  
